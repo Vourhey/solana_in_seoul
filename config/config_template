@@ -1,0 +1,11 @@
+{
+    "kuka_mnemonic": "",
+    "node": "ws://127.0.0.1:9944",
+    "account": "",
+    "private_key": "",
+    "robot_address": "",
+    "robot_private_key": "" ,
+    "liability_contract": "0x38Ab928bfcDa84f6cb321d031E7E4fF44e145656",
+    "xrt_contract": "0xAFfC50aD4d2D4B7967A6718ca0549Cd1085384fA"
+    
+}
